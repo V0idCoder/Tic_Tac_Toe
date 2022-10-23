@@ -1,0 +1,3 @@
+# Tic_Tac_Toe
+This is a little Tic Tac Toe game that I made for undersanding a bit of JQuery, not something very seriosly, but it's working I guess...
+Btw let's not talk about the design ^^
